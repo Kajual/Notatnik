@@ -1,0 +1,16 @@
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\bin\Debug\netcoreapp3.1\Edytor Tekstu.exe
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\bin\Debug\netcoreapp3.1\Edytor Tekstu.deps.json
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\bin\Debug\netcoreapp3.1\Edytor Tekstu.runtimeconfig.json
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\bin\Debug\netcoreapp3.1\Edytor Tekstu.runtimeconfig.dev.json
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\bin\Debug\netcoreapp3.1\Edytor Tekstu.dll
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\bin\Debug\netcoreapp3.1\Edytor Tekstu.pdb
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor Tekstu.csproj.AssemblyReference.cache
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor_Tekstu.Form1.resources
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor Tekstu.csproj.GenerateResource.cache
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor Tekstu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor Tekstu.AssemblyInfoInputs.cache
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor Tekstu.AssemblyInfo.cs
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor Tekstu.csproj.CoreCompileInputs.cache
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor Tekstu.dll
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor Tekstu.pdb
+C:\Users\Kaj\source\repos\Edytor Tekstu\Edytor Tekstu\obj\Debug\netcoreapp3.1\Edytor Tekstu.genruntimeconfig.cache
